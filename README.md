@@ -1,3 +1,3 @@
-# Stock_Analysis_v2---W.I.P
+# Pomodoro_Timer---W.I.P
 
 The Pomodoro Method is a technique for time management that maximizes the chances of the worker entering the "Flow State". It works by having the worker do work for increments of 25 minutes and then followed by a 5 minute break the first 4 "Pomodoros" and then a 20 minute break for the rest of the "Pomodoros". Taking breaks while working is well known to improve productivity so this method maximizes the productivity while minimizing the time spent working. This program allows the user to set the number of iterations and length of breaks/worktime. Currently a feature is being developed that will allow for historical data to be graphed and then analyzed, revealing the which types of work took longer and how productive the user was.
